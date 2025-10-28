@@ -45,12 +45,6 @@ See the full [Privacy Policy](./PRIVACY.md).
 
 ---
 
-## 📜 License
-This project is licensed under the **GNU General Public License v3.0 (GPLv3)**.  
-You are free to use, modify, and distribute the code under the same license terms.  
-
----
-
 ## ⭐ Feedback & Support
 - 💬 [Rate us on the Chrome Web Store](https://chromewebstore.google.com/detail/roblox-region-selector/kbhccmmeanfjdlgkchpgbjbkenkghmgo)  
 - 🐛 Found a bug? Open an issue on GitHub (if the repo is public).  
