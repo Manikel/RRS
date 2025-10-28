@@ -18,8 +18,8 @@ It uses smart scanning and real-time server mapping to maximize available server
 
 ---
 
-## 🛠️ Installation (
-1 Download the extension from the chrome marketplace 
+## 🛠️ Installation
+Download the extension from chrome marketplace 
 
 ---
 
