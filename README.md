@@ -35,7 +35,7 @@ It uses smart scanning and real-time server mapping to maximize available server
 
 ## 🔒 Privacy
 Roblox Region Selector does **not** collect or store personal information.  
-It only fetches Roblox public server data and performs latency checks to Cloudflare speed test endpoints.  
+It only fetches Roblox public server data and performs latency checks to custom Amazon Web Services(AWS) endpoints.  
 
 See the full [Privacy Policy](./PRIVACY.md).
 
